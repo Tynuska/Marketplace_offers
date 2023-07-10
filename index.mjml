@@ -1,0 +1,302 @@
+<mjml>
+  <mj-head>
+    <mj-title>Marketplace offers</mj-title>
+    <mj-preview>Become out partner and gain new customers</mj-preview>
+
+    <mj-attributes>
+      <mj-text font-family="Skoda Next, Arial" padding="0" font-size="16px" line-height="135%" color="#4A4A4A" />
+      <mj-text line-height="135%" />
+      <mj-section padding="0" />
+      <mj-wrapper padding="0" />
+      <mj-image padding="0" />
+      <mj-class name="headline" font-size="19px" font-weight="700" font-family="Skoda Next, Arial" color="#4A4A4A" line-height="135%" />
+      <mj-class name="body-text" font-size="16px" line-height="135%" font-family="Skoda Next, Arial" padding="0" color="#4A4A4A" />
+      <mj-class name="link" font-size="16px" color="#4CA82C" text-decoration="none" style="text-decoration: none" />
+      <mj-class name="section" padding-left="40px" padding-right="40px" />
+    </mj-attributes>
+    <mj-font name="Skoda Next, Arial" />
+    <mj-style inline="inline">
+      .link {
+        color: #4CA82C;
+      }
+    </mj-style>
+
+    <mj-style>
+      @media (max-width:610px) {
+      .padding-mobile > table > tbody > tr > td {
+      padding-left: 25px !important;
+      padding-right: 25px !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-wrapper>
+        <mj-section padding-right="24px" padding-left="24px" padding-top="16px">
+          <mj-column>
+            <mj-text align="center" font-size="14px" font-family="Skoda Next, Arial" color="#4A4A4A" line-height="120%">If you have trouble viewing this document, please click <a href="{{webversion}}" class="link" style="text-decoration: none" target="_blank"><span style="color: inherit; text-decoration: none">here.</span></a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Logos -->
+        <mj-section padding-right="25px" padding-left="25px" padding-bottom="24px" padding-top="24px">
+          <mj-group>
+            <mj-column vertical-align="middle">
+              <mj-image src="https://cdn-smartemailing.cz/262571/media/connect-fod/logo-skoda.png?_t=1626273649" href="https://skoda-auto.com" width="113" align="left" alt="ŠKODA AUTO logo"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle">
+              <mj-image src="https://cdn-smartemailing.cz/262571/media/connect-fod/simply-clever.png?_t=1626273650" width="66" align="right" alt="SIMPLY CLEVER"></mj-image>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <!-- Header -->
+        <mj-section padding-bottom="36px">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/header.png?_t=1634896070" width="600" alt="Header"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" css-class="padding-mobile">
+          <mj-column>
+            <mj-text mj-class="body-text" font-weight="700" padding-bottom="15px">
+              <b>Dear Sir or Madam,</b>
+            </mj-text>
+            <mj-text mj-class="body-text">
+              ŠKODA is constantly expanding its range of connectivity services. One of them is the <b>Offers infotainment app</b>, alerting ŠKODA drivers to bargains on their route by showing these offers directly on their infotainment display. We are contacting you to offer you the chance to work with us and to <b>promote and present your products and/or services in this way.</b> This is an opportunity to access a <b>unique target group</b> via an unconventional communication channel with a chance of winning prospects over almost immediately. Team up with ŠKODA, a traditional brand that commands respect on the market.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- HOW DO YOU BENEFIT FROM THIS PARTNERSHIP? -->
+        <mj-section mj-class="section" css-class="padding-mobile" text-align="right">
+          <mj-column>
+            <mj-text mj-class="headline" padding-top="53px" padding-bottom="28px" align="center" css-class="padding-mobile">
+              HOW DO YOU BENEFIT FROM THIS PARTNERSHIP?
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section css-class="padding-mobile">
+          <mj-column padding-bottom="40px" width="170px">
+            <mj-image align="center" width="109px" src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/ikony1-3.png?_t=1634649167" padding-right="19px" padding-bottom="2px" alt="BENEFIT" />
+            <mj-text mj-class="body-text" font-size="16px" align="center" padding-right="19px">
+              Access to the customer base of one of the largest automotive manufacturers in Europe
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding-bottom="40px" width="170px">
+            <mj-image align="center" width="109px" src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/ikony2-3.png?_t=1634804092" padding-right="19px" padding-bottom="2px" alt="BENEFIT" />
+            <mj-text mj-class="body-text" align="center" padding-right="19px">
+              A cognitive platform for targeted offers – you only reach out to customers who are right for you
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding-bottom="40px" width="170px">
+            <mj-image align="center" width="109px" src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/ikony3-3.png?_t=1634804093" padding-right="19px" padding-bottom="2px" alt="BENEFIT" />
+            <mj-text mj-class="body-text" align="center" padding-right="19px">
+              Cost-effective marketing with a transparent and provable ROI
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section css-class="padding-mobile">
+          <mj-column padding-bottom="40px" width="170px">
+            <mj-image align="center" width="109px" src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/ikony4-1.png?_t=1634804093" padding-right="19px" padding-bottom="2px" alt="BENEFIT" />
+            <mj-text mj-class="body-text" align="center" padding-right="19px">
+              A new communication channel aimed at potential customers (increasing brand awareness)
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding-bottom="40px" width="170px">
+            <mj-image align="center" width="109px" src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/ikony5-1.png?_t=1634804094" padding-right="19px" padding-bottom="2px" alt="BENEFIT" />
+            <mj-text mj-class="body-text" align="center" padding-right="19px">
+              Marketing offers are always displayed in the same place on the first screen of the infotainment
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding-bottom="40px" width="170px">
+            <mj-image align="center" width="109px" src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/ikony6-3.png?_t=1634804094" padding-right="19px" padding-bottom="2px" alt="BENEFIT" />
+            <mj-text mj-class="body-text" align="center" padding-right="19px">
+              Cross-promotional opportunities connect your brand image to one of the world’s most widely recognised brands
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- WHAT IS THE OFFERS INFOTAINMENT APP?-->
+        <mj-section mj-class="section" css-class="padding-mobile" background-color="#F6F6F6">
+          <mj-column>
+            <mj-text mj-class="headline" padding-top="35px" padding-bottom="34px" align="center">
+              WHAT IS THE OFFERS INFOTAINMENT APP?
+            </mj-text>
+            <mj-text mj-class="body-text" align="center" padding-bottom="29px">
+              Offers is an in-car app developed by ŠKODA. The infotainment display shows drivers the special bargains available from our contractual partners on their route and, if they are interested, it guides them to the partner’s address. All offers are unique and available only to ŠKODA owners using the Offers app. All drivers need do is present the contractual partner with a voucher sent via the infotainment system to their email address. The app is completely free for ŠKODA customers.
+            </mj-text>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/display-1lbo-1.png?_t=1634804092" align="center" width="490px" alt="OFFERS INFOTAINMENT APP?" padding-bottom="37px"></mj-image>
+            <mj-text align="center" padding-bottom="37px">
+              <mj-raw>
+                <div>
+                  <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:44px;v-text-anchor:middle;width:217px;" arcsize="228%" stroke="f" fillcolor="#4BA82E">
+                      <w:anchorlock/>
+                      <center>
+                    <![endif]-->
+                  <a href="https://www.skoda-auto.com/connectivity/infotainment-apps/offers" target="_blank" style="background-color:#4BA82E;border-radius:91px;color:#ffffff;display:inline-block;font-family:Skoda Next, Arial;font-size:11px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:217px;-webkit-text-size-adjust:none;">MORE ABOUT THE APP</a>
+                  <!--[if mso]>
+                      </center>
+                    </v:roundrect>
+                  <![endif]-->
+                </div>
+              </mj-raw>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- WHAT SORT OF OFFERS IS LBO SUITABLE FOR? -->
+        <mj-section mj-class="section" css-class="padding-mobile">
+          <mj-column>
+            <mj-text mj-class="headline" align="center" padding-top="37px"> WHAT SORT OF OFFERS IS THE APP SUITABLE FOR?</mj-text>
+            <mj-text mj-class="body-text" align="center">
+              The Offers app is open to all sorts of products and services – not only those with an automotive or mobility theme. Suitable types of business include chains of petrol stations, car washes, restaurants, hotels, shops, and many others. </mj-text>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- STEPS TO PARTNERSHIP -->
+        <mj-section mj-class="section" css-class="padding-mobile">
+          <mj-column>
+            <mj-text mj-class="headline" padding-top="45px" padding-bottom="26px" align="center">
+              STEPS TO PARTNERSHIP
+            </mj-text>
+
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/group-37.png?_t=1634904823" width="133px" align="center"> </mj-image>
+
+            <mj-text mj-class="body-text" font-weight="700" align="center">
+              FIRST CONTACT
+            </mj-text>
+
+            <mj-text mj-class="body-text" align="center" padding-bottom="29px" color="#4A4A4A">
+              Sign the NDA and framework contract (3-4 weeks) </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" css-class="padding-mobile">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/group-38.png?_t=1634904823" width="133px" align="center"> </mj-image>
+            <mj-text mj-class="body-text" font-weight="700" align="center">
+              CAMPAIGN GENERATION
+            </mj-text>
+
+            <mj-text mj-class="body-text" align="center" padding-bottom="29px">
+              Our campaign managers help to create a campaign (1-2 weeks)
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" css-class="padding-mobile">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/group-39.png?_t=1634904823" width="133px" align="center"> </mj-image>
+
+            <mj-text mj-class="body-text" font-weight="700" align="center">
+              GO-LIVE
+            </mj-text>
+
+            <mj-text mj-class="body-text" align="center" padding-bottom="29px">
+              Campaign running, live AB testing and reports (1-2 weeks) </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" css-class="padding-mobile">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/infoteinment-apps/group-40.png?_t=1634904824" width="133px" align="center"> </mj-image>
+
+            <mj-text mj-class="body-text" font-weight="700" align="center">
+              EVALUATE
+            </mj-text>
+
+            <mj-text mj-class="body-text" align="center" padding-bottom="35px">
+              In-depth reporting of performance and results (usually 3 months for the start)
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Connect -->
+        <mj-section mj-class="section" css-class="padding-mobile" background-color="#F0F1F2">
+          <mj-column>
+            <mj-text mj-class="headline" padding-top="40px" padding-bottom="24px" align="center">
+              CONTACT US TO JOIN
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-bottom="34px" align="center">
+              There’s just one more step you need to take to join us. Email our team at <a href="mailto: offers@skoda-auto.cz" class="link" style="text-decoration: none" target="_blank"><span style="color: inherit; text-decoration: none">offers@skoda-auto.cz</span></a> and we will get back to you with more information.
+            </mj-text>
+            <mj-text align="center" padding-bottom="40px">
+              <mj-raw>
+                <div>
+                  <!--[if mso]>
+                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:40px;v-text-anchor:middle;width:217px;" arcsize="228%" stroke="f" fillcolor="#4BA82E">
+                    <w:anchorlock/>
+                    <center>
+                  <![endif]-->
+                  <a href="#" style="background-color:#4BA82E;border-radius:91px;color:#ffffff;display:inline-block; font-family: Skoda Next, Arial;font-size:11px;font-weight:bold;line-height:44px;text-align:center;text-decoration:none;width:217px;-webkit-text-size-adjust:none;" target="_blank">CONNECT OUR TEAM</a>
+                  <!--[if mso]>
+                    </center>
+                  </v:roundrect>
+                <![endif]-->
+                </div>
+              </mj-raw>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- footer -->
+        <mj-section mj-class="section" padding-top="34px" padding-bottom="20px" background-color="#4A4A4A" css-class="padding-mobile">
+          <mj-column padding-left="20px" padding-left="20px">
+            <mj-text color="#FFF" font-size="14px" line-height="120%" font-family="Skoda Next, Arial" padding-bottom="15px">
+              <b>ŠKODA AUTO a.s.</b><br />
+              Tř. Václava Klementa 869<br />
+              293 01 Mladá Boleslav II<br />
+              Czech Republic<br />
+              <a href="https://www.skoda-auto.com/" target="_blank" style="text-decoration: none"><span style="color: #FFF; text-decoration: none" target="_blank">www.skoda-auto.com</span></a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column vertical-align="top" padding-right="20px">
+            <mj-raw>
+              <table style="width: 100%">
+                <tr style="vertical-align: top;">
+                  <td style="text-align: right; text-decoration: none" text-docoration="none">
+                    <a href="https://twitter.com/skodaautonews/" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/tw-nov21.png?_t=1637780089" width="43" alt="Twitter">
+                    </a>
+                    <a href="https://www.facebook.com/skodaglobal" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/fb-nov21.png?_t=1637780088" width="33" alt="Facebook">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCjG24cC7xIEkVtxKdhHDwtg" text-docoration="none" style="text-decoration: none" target="_blank" margin-left="15px" padding-left="15px">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/yt-nov21.png?_t=1637780090" width="45" alt="YouTube">
+                    </a>
+                    <a href="https://www.instagram.com/skodagram/" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/ig-nov21.png?_t=1637780089" width="46" alt="Instagram">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </mj-raw>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" css-class="padding-mobile" padding-top="15px" padding-bottom="15px" >
+          <mj-column css-class="padding-mobile">
+            <mj-text align="center" font-size="14px" color="#4A4A4A" font-family="Skoda Next, Arial" line-height="120%">
+              If you no longer wish to receive the ŠKODA marketing communication e-mails, please click <a href="{{unsubscribe}}" class="link" underline="none" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none; margin-bottom: 37px">here.</span></a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
